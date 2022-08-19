@@ -1,6 +1,6 @@
-- 👋 Oie, Beatriz Muliterno aqui! 
+- 👋 Oie! 
 - 🎓 Estudo Sistemas de Informação 
-- 🌱 Estou aprendendo JavaScript, HTML, CSS
+- 🌱 Estou aprendendo JavaScript, HTML5 e CSS
 - 🔍 À procura de Estagio ou Sandy&Junior
 - 📫 https://www.linkedin.com/in/beatrizmuliterno/
 
