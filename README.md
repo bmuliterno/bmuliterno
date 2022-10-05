@@ -1,7 +1,5 @@
-- 👋 Oie! 
-- 🎓 Estudo Sistemas de Informação 
-- 🌱 Estou aprendendo JavaScript, HTML5 e CSS
-- 🔍 À procura de Estagio ou Sandy&Junior
+- 👋 Oie!   
+- 💻 Product Developer na PagBank PagSeguro
 - 📫 https://www.linkedin.com/in/beatrizmuliterno/
 
 <!---
