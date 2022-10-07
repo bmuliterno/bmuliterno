@@ -1,5 +1,4 @@
 - 👋 Oie!   
-- 💻 Product Developer na PagBank PagSeguro
 - 📫 https://www.linkedin.com/in/beatrizmuliterno/
 
 <!---
